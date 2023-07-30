@@ -1,0 +1,35 @@
+#footer{
+    color: white;
+}
+
+#nossoTime i{
+    font-size: 50px;
+    color: rgba(6, 6, 6, 0.897);
+}
+
+i{
+    font-size: 30px;
+}
+
+#carouselExampleDark h2{
+    color: #050506;
+}
+
+#NossosProdutos{
+    color: #0b0b0b;
+}
+
+.sticky-bottom{
+    display: flex;
+    justify-content: end;
+}
+
+.bi-cart3{
+    font-size: 18px;
+    padding-right:10px ;
+}
+
+#carrinho{
+    color: white;
+    font-size: 25px;
+}
